@@ -1,2 +1,2 @@
-# dev_prompts_python
-Prompts to speed up Python development
+# DevPromptsPython
+Prompts to speed up your Python development.
